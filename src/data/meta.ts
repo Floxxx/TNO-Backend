@@ -18,6 +18,7 @@ export const npFactionsReal = { // map: removed spaces + converted to lower case
     angels: 'Angels',
     nbc: 'NBC',
     bbmc: 'BBMC',
+    stable: 'The Stable',
     rooster: 'Rooster',
     burgershot: 'Burger Shot',
     development: 'Development',
